@@ -1,7 +1,7 @@
 {
-"companyName": "XzoneGames",
+"companyName": "XzonGames",
 "productName": "BallBallMaze",
-"productVersion": "0.1",
+"productVersion": "1",
 "dataUrl": "BallBallMaze.data.unityweb",
 "wasmCodeUrl": "BallBallMaze.wasm.code.unityweb",
 "wasmFrameworkUrl": "BallBallMaze.wasm.framework.unityweb",
@@ -12,5 +12,5 @@
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.2.15f1"
+"unityVersion": "2019.3.0f6"
 }
